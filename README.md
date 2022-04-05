@@ -1,1 +1,1 @@
-# petstagram_project
+With this app we can upload pics of our pets.
